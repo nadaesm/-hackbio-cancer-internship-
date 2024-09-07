@@ -72,11 +72,6 @@ WGS predictions showed high concordance with BMD results (93% agreement), outper
   o:title=""/>
 </v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/lenovo/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)<!--[endif]-->
 
-**Figure 1. **Agreement/disagreement between whole-genome sequencing and phenotypic data for antimicrobial resistance to 4 β-lactams_. A–D_, Minimum inhibitory concentrations
-
-for indicated β-lactams (phenotype) are shown. The colors of the bars represent various combinations of genotypic and phenotypic resistance as indicated in the
-
-legend. Abbreviations: MIC, minimum inhibitory concentration; R, resistant; S, susceptible
 
 **Conclusion**
 
